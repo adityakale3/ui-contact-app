@@ -61,7 +61,13 @@
     width: 30%;
 }
 
+.bg-stat-adi {
+    background-image: url(../images/pictures/mini.png);
+}
 
+.font-60 {
+    font-size:60px!important
+   }
 
 
 
