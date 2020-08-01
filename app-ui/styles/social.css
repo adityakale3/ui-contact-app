@@ -1,0 +1,73 @@
+.color-youtube {
+    color: #c4302b !important;
+}
+
+.color-telegram {
+    color: #0088CC !important;
+}
+
+.color-github {
+    color: #333 !important;
+}
+
+.color-slack {
+    color: linear-gradient(to right, #36C5F0, #ECB22E, #2EB67D, #E01E5A);
+}
+
+.color-discord {
+    color: #7289da !important;
+}
+
+.color-snapchat {
+    color: #FFFC00 !important;
+}
+
+.fabdis1 {
+    padding-right: 5px!important;
+}
+
+.sociallinks {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+    padding-bottom: 10px;
+}
+
+.sociallinks1 {
+    display: grid;
+    grid-template-columns: repeat(6, 20px); 
+    grid-template-rows: 20px 20px 20px;
+    column-gap: 10px;
+    row-gap: 10px;
+    justify-content:space-evenly;
+    justify-self:center;
+    padding: 10px;
+}
+
+.social-wrapper {
+    width: 60%;
+}
+
+.bg-adi {
+    background-image: url(../images/pictures/social-media.jpg);
+}
+
+.adibtn {
+    display: flex;
+    flex-direction:column
+}
+
+.sizebtn {
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
