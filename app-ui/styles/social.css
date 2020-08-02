@@ -22,6 +22,11 @@
     color: #FFFC00 !important;
 }
 
+.strokeme {
+    color:rgba(0,0,0,0.25);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+
 .fabdis1 {
     padding-right: 5px!important;
 }
